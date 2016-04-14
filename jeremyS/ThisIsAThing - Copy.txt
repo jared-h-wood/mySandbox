@@ -1,0 +1,5 @@
+check out this cool stuff in here, [This is some text that Jared added to purposly create a conflict] oh wow look at that man
+
+Jared added this text two lines down from the original text
+
+defaced this file too oh wow nice feature
