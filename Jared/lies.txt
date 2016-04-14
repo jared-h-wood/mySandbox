@@ -1,2 +1,4 @@
-Something about pandas.
+This file has 7 lines in it
+2 + 4 = 25
+The sky is green
 Brett is the most awesome.
